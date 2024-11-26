@@ -140,12 +140,9 @@ Se pueden incluso hacer citas anidadas.
 
 \>\>\> Cita anidada 2
 
-\>  Cita 2
-
 > Cita
 >> Cita anidada 1
 >>> Cita anidada 2
-> Cita 2
 
 ## Enlaces y multimedia
 
