@@ -154,7 +154,7 @@ Queda así: [Ir a Google](https://google.com)
 
 Si quisiéramos añadir un enlace sin ningún texto lo ponemos entre \< >.
 
-Ejemplo: \<https:\//google.com\>
+Ejemplo: `<https://google.com>`
 
 Queda así: <https://google.com>
 
