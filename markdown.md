@@ -108,8 +108,11 @@ Para añadir bloques de código se usan los backticks (\`).
 Este bloque sólo es de una línea. Para hacer bloques multilínea se usan tres backticks.
 
 \`\`\`python
+
 import sys
+
 sys.out.write("Hello world\n")
+
 \`\`\`
 
 En este ejemplo añadimos un bloque multilínea con código Python. Tras los primeros 3 backticks podemos (no es obligatorio) poner el lenguaje del código que incluiremos. Hacer esto puede habilitar el resaltado sintáctico del código con colores. El código va debajo de los primeros tres backticks.
