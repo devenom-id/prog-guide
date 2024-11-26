@@ -188,19 +188,18 @@ Las tablas se pueden hacer de una forma muy intuitiva.
 
 Este ejemplo lo demuestra:
 ```markdown
-|Nombre|Edad|
-|---|
-|ABC|21|
-|---|
-|DEF|18|
-|---|
+Nombre|Edad
+---|---
+ABC|21
+DEF|18
 ```
-Cada `|---|` separa las filas. Y eso da este resultado
 
-| Nombre | Edad |
-| ------ | ---- |
-| ABC    | 21   |
-| DEF    | 18   |
+Y eso da este resultado:
+
+Nombre|Edad
+---|---
+ABC|21
+DEF|18
 
 ## Misceláneo
 
