@@ -12,4 +12,4 @@ Esta página es el índice del material de estudio de programación que suba. Aq
 - [Sistema de archivos UNIX 🟡](term2.html)
 - [Navegando por el sistema de archivos 🟡](term3.html)
 #### Tutoriales
-- [Crear una página con Markdown con Github Pages 🟡](crear-pagina-markdown-github.html)
+- [Crear una página con Markdown en Github Pages 🟡](crear-pagina-markdown-github.html)
