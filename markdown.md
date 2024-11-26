@@ -2,13 +2,13 @@ Dificultad: **Nula**
 
 Tiempo estimado para aprenderlo: **Una tarde**
 ## Tabla de contenidos
-- [Introducción](#Introducción)
-- [Texto](#Texto)
-- [Listas](#Listas)
-- [Bloques de código](#Bloques-de-código)
-- [Citas](#Citas)
-- [Enlaces y multimedia](#Enlaces-y-multimedia)
-- [Misceláneo](#Misceláneo)
+- [Introducción](#introducción)
+- [Texto](#texto)
+- [Listas](#listas)
+- [Bloques de código](#bloques-de-código)
+- [Citas](#citas)
+- [Enlaces y multimedia](#enlaces-y-multimedia)
+- [Misceláneo](#misceláneo)
 
 ## Introducción
 
