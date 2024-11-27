@@ -21,7 +21,7 @@ Los programas del usuario serían la radio, el GPS y cosas que son instaladas y 
 
 ## Definición de Kernel
 
-El kernel es la pieza de software más importante en un sistema operativo, este tiene acceso completo e irrestricto a todo el hardware de la computadora y lo controla para garantizar el funcionamiento correcto del sistema y sus programas. También se encarga de servir como un puente mediante el cual el software puede comunicarse.
+El kernel es la pieza de software más importante en un sistema operativo, este tiene acceso completo e irrestricto a todo el hardware de la computadora y lo controla para garantizar el funcionamiento correcto del sistema y sus programas. También se encarga de servir como un puente mediante el cual el software puede comunicarse con el hardware.
 
 El kernel es el corazón del sistema operativo, se encarga de controlar el brillo del monitor, revisar el nivel de la batería (laptops y móviles), detectar pulsaciones de teclas del teclado, detectar y controlar periféricos, controlar conexiones inalámbricas como WiFi o Bluetooth, etc. Se encarga de lo más importante.
 
@@ -40,7 +40,7 @@ Volviendo al ejemplo del auto, *Linux* sería el motor. Pero un motor si no tien
 
 Entre los ejemplos se mencionó *"GNU"*. Este es un sistema operativo que casi siempre se presenta junto al kernel Linux, y a este combinación se la llama GNU/Linux; que es lo que mucha gente llama erróneamente "Linux".
 
-No decimos de los otros sistemas Android/Linux o Alpine/Linux porque estos sistemas ya vienen con Linux por defecto con el sistema; en cambio, GNU solía ofrecer otros kernels como *"Hurd"*.
+No decimos de los otros sistemas Android/Linux o Alpine/Linux porque estos sistemas ya vienen con Linux por defecto con el sistema; en cambio, GNU solía ofrecer otros kernels como *"Hurd"*, y a esa combinación se la llama GNU/Hurd.
 
 #### ¿Cuál es el kernel de Windows?
 
