@@ -1,6 +1,7 @@
 Dificultad: **Fácil-intermedio**
 
 Tiempo estimado para aprenderlo: **20-25 mins**
+
 ## Tabla de contenidos
 - [Introducción](#introducción)
 - [Breve historia de la terminal](#breve-historia-de-la-terminal)
