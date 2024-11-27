@@ -5,6 +5,7 @@ Tiempo estimado para aprenderlo: **20-25 mins**
 ## Tabla de contenidos
 - [Introducción](#introducción)
 - [Breve historia de la terminal](#breve-historia-de-la-terminal)
+
 ## Introducción
 
 Ua terminal es más que "una pantalla negra con letritas verdes que usan los hackers en las películas", por eso, en este capítulo se definirá lo que es introduciendo sencillamente conceptos nuevos.
