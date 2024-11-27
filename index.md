@@ -10,7 +10,7 @@ Esta página es el índice del material de estudio de programación que suba. Aq
 #### Backend
 
 #### Terminal
-- [Qué es una terminal 🟡](term1.html)
+- [Qué es una terminal ](term1.html)
 - [Navegando por el sistema de archivos 🟡](term2.html)
 
 #### Sistemas
