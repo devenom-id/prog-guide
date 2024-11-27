@@ -1,10 +1,12 @@
 Dificultad: **Fácil**
 
 Tiempo estimado para aprenderlo: **15 minutos**
+
 ## Tabla de contenidos
 - [Definición de Sistema Operativo](#definición-de-sistema-operativo)
 - [Definición de Kernel](#definición-de-kernel)
 - [GNU/Linux](#gnulinux)
+
 ## Definición de Sistema Operativo
 
 Un sistema operativo es aquel conjunto de softwares que trabajan en coordinación para hacer que una computadora o dispositivo móvil funcionen.
