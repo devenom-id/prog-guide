@@ -12,7 +12,7 @@ Ahora procede elegir el nombre del repositorio, y este es también el nombre del
 
 <img src="media/gfm_2.png" width="500">
 
-Una vez ya creado el repositorio procedemos a copiar la dirección que nos muestra la página, y esta es la dirección a nuestro repositorio.
+Una vez ya creado el repositorio procedemos a copiar la dirección que nos muestra la página en la parte de *Quick setup*, y esta es la dirección a nuestro repositorio.
 
 <img src="media/gfm_3.png" width="500">
 
@@ -59,9 +59,22 @@ Tras probar `git push` te pedirá tu username y contraseña de Github para poder
 
 [Clickea aquí para revisar el tutorial para generar tokens en Github](generar-token-github.html)
 
+Ya habiendo subido el index.md queda activar Github Pages en nuestro repositorio. Para esto vamos a la configuración del repositorio y luego a la sección *Pages*.
+
+<img src="media/gfm_10.png" width="500">
+
+Una vez allí, en la sección de branch tenemos que cambiar la opción *None* por la opción *main*, y luego pulsa el botón *Save* para finalmente activar Github Pages en la rama principal del repositorio.
+
+
 <img src="media/gfm_7.png" width="500">
 
+Desde entonces, cada vez que se haga push en ese repositorio, Github volverá a usar Jekyll para convertir markdown en HTML.
+
+La publicación de la página no se actualizará instantáneamente, puede tardar desde unos segundo hasta unos minutos dependiendo de qué tan pesada sea. Podemos revisar si ya se reflejo en la página el último push que hicimos al repositorio revisando en la pestaña de *Actions* del repositorio.
+
 <img src="media/gfm_8.png" width="500">
+
+En la parte de *Workflows*, cuando una acción se muestre con un círculo de color amarillo quiere decir que está siendo procesada y la página aún no ha reflejado los cambios. Cuando la acción termine de ser procesada se mostrará un tick verde en su lugar.
 
 <img src="media/gfm_9.png" width="500">
 
