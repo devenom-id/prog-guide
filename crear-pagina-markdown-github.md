@@ -42,11 +42,11 @@ git commit -m "-"
 git push
 ```
 
+<img src="media/gfm_6.png" width="500">
+
 Tras haber hecho esto habrás subido el primer archivo al repositorio.
 
 Si es la primera vez que usas git necesitarás configurar unas cosas antes de poder usar push.
-
-<img src="media/gfm_6.png" width="500">
 
 <img src="media/gfm_7.png" width="500">
 
