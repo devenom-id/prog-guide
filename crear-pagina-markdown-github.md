@@ -2,6 +2,8 @@ Dificultad: **Fácil**
 
 Tiempo estimado para aprenderlo: **15 mins**
 
+---
+
 Para crear una página web aprovechando Github Pages tendremos que designar un repositorio dedicado únicamente a esto. En este repositorio guardaremos los archivos de markdown, que serán cada página de nuestro sitio, porque luego Github Pages lo convertirá en HTML y le dará estilo.
 
 Paso 1 entonces: crear un repositorio. Para eso le damos al botón verde que dice *New* o *Nuevo* para empezar.
@@ -61,7 +63,7 @@ Tras probar `git push` te pedirá tu username y contraseña de Github para poder
 
 Ya habiendo subido el index.md queda activar Github Pages en nuestro repositorio. Para esto vamos a la configuración del repositorio y luego a la sección *Pages*.
 
-<img src="media/gfm_10.png" width="500">
+<img src="media/gfm_10.jpg" width="500">
 
 Una vez allí, en la sección de branch tenemos que cambiar la opción *None* por la opción *main*, y luego pulsa el botón *Save* para finalmente activar Github Pages en la rama principal del repositorio.
 
@@ -76,5 +78,28 @@ La publicación de la página no se actualizará instantáneamente, puede tardar
 
 En la parte de *Workflows*, cuando una acción se muestre con un círculo de color amarillo quiere decir que está siendo procesada y la página aún no ha reflejado los cambios. Cuando la acción termine de ser procesada se mostrará un tick verde en su lugar.
 
-<img src="media/gfm_9.png" width="500">
+Finalmente, con la página publicada podremos revisarla visitando la URL que nos sale en la sección Pages de los ajustes del repo. Esta URL tiene este formato
 
+```
+https://username.github.io/nombreDelRepo/
+```
+
+En el caso del ejemplo de las fotos, mi username es *devenom-id*, y mi repo se llama *webexample*; y el archivo que subí se llamaba index.md. Para ver este archivo en la web uso:
+
+```
+https://devenom-id.github.io/webexample/index.html
+```
+
+Nota como usé **index.html** en lugar de index.md, esto es porque Github Pages convierte mis archivos `.md` en `.html` en mi sitio.
+
+Como la página index.html es la página principal, aún si usara este link sin especificar ese archivo:
+
+```
+https://devenom-id.github.io/webexample
+```
+
+aún así terminaría siendo redirigido al index.html.
+
+Y aquí cómo se ve:
+
+<img src="media/gfm_9.png" width="500">
