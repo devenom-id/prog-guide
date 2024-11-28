@@ -2,20 +2,21 @@ Dificultad: **Fácil**
 
 Tiempo estimado para aprenderlo: **15 mins**
 
-![img](media/gfm_1.png =200x200)
+<img src="media/gfm_1.png" width="100">
 
-![img](media/gfm_2.png =200x200)
+<img src="media/gfm_2.png" width="100">
 
-![img](media/gfm_3.png =200x200)
+<img src="media/gfm_3.png" width="100">
 
-![img](media/gfm_4.png)
+<img src="media/gfm_4.png" width="100">
 
-![img](media/gfm_5.png)
+<img src="media/gfm_5.png" width="100">
 
-![img](media/gfm_6.png)
+<img src="media/gfm_6.png" width="100">
 
-![img](media/gfm_7.png)
+<img src="media/gfm_7.png" width="100">
 
-![img](media/gfm_8.png)
+<img src="media/gfm_8.png" width="100">
 
-![img](media/gfm_9.png)
+<img src="media/gfm_9.png" width="100">
+
