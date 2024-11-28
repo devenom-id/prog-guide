@@ -12,15 +12,19 @@ Ahora procede elegir el nombre del repositorio, y este es también el nombre del
 
 <img src="media/gfm_2.png" width="500">
 
-Una vez ya creado el repositorio procedemos a copiar la dirección que nos muestra la página, y esta es la dirección a nuestro repositorio. Tras copiarla, abrimos una sesión de terminal y ejecutamos
+Una vez ya creado el repositorio procedemos a copiar la dirección que nos muestra la página, y esta es la dirección a nuestro repositorio.
+
+<img src="media/gfm_3.png" width="500">
+
+Tras copiarla, abrimos una sesión de terminal y ejecutamos
 
 ```
 git clone [link a tu repositorio]
 ```
 
-<img src="media/gfm_3.png" width="500">
+<img src="media/gfm_4.png" width="500">
 
-Tras haber clonado (descargado) el repositorio en nuestro disco, ahora vamos a proseguir a entrar en él usando
+Luego de haber clonado (descargado) el repositorio en nuestro disco, ahora vamos a proseguir a entrar en él usando
 
 ```
 cd [nombre del repo]
@@ -28,7 +32,7 @@ cd [nombre del repo]
 
 y luego creamos un archivo llamado index.md; esta será la página *home* de nuestro sitio. A continuación un ejemplo de prueba para continuar.
 
-<img src="media/gfm_4.png" width="500">
+<img src="media/gfm_5.png" width="500">
 
 Tras guardar este archivo, en la misma sesión de terminal usamos
 
@@ -37,8 +41,6 @@ git add index.md
 git commit -m "-"
 git push
 ```
-
-<img src="media/gfm_5.png" width="500">
 
 Tras haber hecho esto habrás subido el primer archivo al repositorio.
 
