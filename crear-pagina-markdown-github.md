@@ -46,7 +46,18 @@ git push
 
 Tras haber hecho esto habrás subido el primer archivo al repositorio.
 
-Si es la primera vez que usas git necesitarás configurar unas cosas antes de poder usar push.
+Si es la primera vez que usas git necesitarás configurar unas cosas antes de poder usar push: *tu username y tu dirección de email.*
+
+```
+git config --global user.name [tu username]
+git config --global user.email [tu email]
+```
+
+Tras hacer esto, repites el comando `git push`, y esta vez funcionará. *Esta configuración sólo se realiza **una** vez y es suficiente para todos los repositorios en los que trabajes en ese dispositivo.*
+
+Tras probar `git push` te pedirá tu username y contraseña de Github para poder hacer push al repositorio. Aún así **tu contraseña de Github no servirá** para hacer push, usar la contraseña para hacer push está obsoleto; ahora se necesita generar un token para poder hacer push.
+
+[Clickea aquí para revisar el tutorial para generar tokens en Github](generar-token-github.html)
 
 <img src="media/gfm_7.png" width="500">
 
