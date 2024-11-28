@@ -19,5 +19,5 @@ Esta página es el índice del material de estudio de programación que suba. Aq
 - [Sistema de archivos UNIX 🟡](sys2.html)
 
 #### Tutoriales
-- [Generar un token en Github 🟡](generar-token-github.html)
+- [Generar un token en Github](generar-token-github.html)
 - [Crear una página con Markdown en Github Pages 🟡](crear-pagina-markdown-github.html)
