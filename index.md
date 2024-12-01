@@ -16,7 +16,7 @@ Esta página es el índice del material de estudio de programación que suba. Aq
 
 #### Sistemas
 - [Diferencia entre sistema operativo y kernel](sys1.html)
-- [Sistema de archivos UNIX 🟡](sys2.html)
+- [Sistema de archivos UNIX](https://devenom-id.github.io/HU/unix2.html)
 
 #### Tutoriales
 - [Generar un token en Github](generar-token-github.html)
