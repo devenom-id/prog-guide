@@ -1,4 +1,5 @@
 Dificultad: **Fácil**
+
 Tiempo estimado para aprenderlo: **20 mins**
 
 ## Conocimientos previos requeridos:
@@ -6,6 +7,13 @@ Tiempo estimado para aprenderlo: **20 mins**
 - [Sistema de archivos UNIX](sys2.html)
 
 ## Índice
+
+- [Ruta absoluta](#ruta-absoluta)
+- [Ruta relativa](#ruta-relativa)
+- [Navegación entre directorios](#navegación-entre-directorios)
+- [Administración de archivos](#administración-de-archivos)
+
+---
 
 En una sesión de terminal, la shell siempre estará apuntando a un determinado directorio del sistema de archivos. De esta manera es que podemos movernos entre directorios y revisar el contenido de cada uno. Al abrir una sesión de terminal, bash se iniciará apuntando al directorio `/home/$USER`, donde `$USER` es el nombre del usuario.
 
@@ -59,7 +67,11 @@ Si a ls no se le pasa una ruta, mostrará el contenido del directorio actual. Ge
 
 Los colores de los archivos que muestra `ls` son:
 
-Verde: Archivos ejecutables Blanco: Archivos comunes Azul: Directorios Celeste: Enlaces simbólicos Rojo: Archivos comprimidos (.tar, .gz, .zip)
+- Verde: Archivos ejecutables
+- Blanco: Archivos comunes
+- Azul: Directorios
+- Celeste: Enlaces simbólicos
+- Rojo: Archivos comprimidos (.tar, .gz, .zip)
 
 ## Administración de archivos
 
