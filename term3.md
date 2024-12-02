@@ -3,7 +3,7 @@ Dificultad: **Fácil**
 Tiempo estimado para aprenderlo: **20 minutos**
 
 ## Índice
-- [Instalar paquetes](#instalar-paquete)
+- [Instalar paquetes](#instalar-paquetes)
 - [Actualizar bases de datos de apt](#actualizar-bases-de-datos-de-apt)
 - [Actualizar paquetes](#actualizar-paquetes)
 - [Remover paquetes](#remover-paquetes)
