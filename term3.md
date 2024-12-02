@@ -2,6 +2,15 @@ Dificultad: **Fácil**
 
 Tiempo estimado para aprenderlo: **20 minutos**
 
+## Índice
+- [Instalar paquetes](#instalar-paquete)
+- [Actualizar bases de datos de apt](#actualizar-bases-de-datos-de-apt)
+- [Actualizar paquetes](#actualizar-paquetes)
+- [Remover paquetes](#remover-paquetes)
+- [Listar paquetes](#listar-paquetes)
+- [Buscar paquetes](#buscar-paquetes)
+- [Información sobre un paquete](#información-sobre-un-paquete)
+
 ---
 
 En Debian y los sistemas derivados, el gestor de paquetes es `apt`. `apt` es capaz de realizar todos los trabajos de gestión de paquetes.
@@ -34,7 +43,7 @@ Para instalar paquetes localmente sólo debes poner la ruta del paquete.
 Ejemplo: sudo apt install [/ruta/hacia/paquete.deb]
 ```
 
-## Actualizar datos sobre los paquetes
+## Actualizar bases de datos de apt
 
 Para actualizar la base de datos de los repositorios de Debian y derivadas, se usa la operación `update`:
 
