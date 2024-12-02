@@ -11,7 +11,7 @@ Esta página es el índice del material de estudio de programación que suba. Aq
 
 #### Terminal
 - [Qué es una terminal ](term1.html)
-- [Navegando por el sistema de archivos 🟡](term2.html)
+- [Navegando por el sistema de archivos](term2.html)
 - [Gestión de paquetes con apt 🟡](term3.html)
 
 #### Sistemas
