@@ -9,7 +9,7 @@ Tiempo estimado para aprenderlo: **20 mins**
 
 En una sesión de terminal, la shell siempre estará apuntando a un determinado directorio del sistema de archivos. De esta manera es que podemos movernos entre directorios y revisar el contenido de cada uno. Al abrir una sesión de terminal, bash se iniciará apuntando al directorio `/home/$USER`, donde `$USER` es el nombre del usuario.
 
-El primer comando de navegación que se mostrará es `pwd`. `pwd` es un comando que devuelve la [[#Ruta absoluta]] del directorio actual al que está apuntando bash en el momento de la ejecución del comando.
+El primer comando de navegación que se mostrará es `pwd`. `pwd` es un comando que devuelve la [ruta absoluta](#ruta-absoluta) del directorio actual al que está apuntando bash en el momento de la ejecución del comando.
 
 ```
 $ pwd
