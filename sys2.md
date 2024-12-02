@@ -1,3 +1,9 @@
+Dificultad: **Fácil**
+
+Tiempo estimado para aprenderlo: **15 mins**
+
+---
+
 El sistema de archivos en el que se maneja Unix es un gran árbol de archivos que comienza desde una raíz. Todos los sistemas UNIX o Unix-like siguen este modelo, por ende, lo explicado aquí también sirve para sistemas como BSD o GNU/Linux.
 
 *El sistema de archivos Unix tiene como objetivo organizar y almacenar de manera lógica grandes cantidades de datos de manera que sea fácil de administar. En este modelo, la unidad de almacenamiento más pequeña es el archivo.*
